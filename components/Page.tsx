@@ -14,6 +14,8 @@ export default class Page extends React.Component <PageProps, PageState> {
   }
 
   render () {
-    <div> This is just a page. </div>
+  	return (
+  		<div> This is just a page. </div>
+  	)
   }
 }
