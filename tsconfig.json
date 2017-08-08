@@ -3,6 +3,7 @@
     "module": "commonjs",
     "target": "es5",
     "jsx": "react",
-    "sourceMap": true
+    "sourceMap": true,
+    "noImplicitAny": false
   }
 }

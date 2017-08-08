@@ -1,4 +1,6 @@
 export type UserType = {
   id: Number
-  username: string
+  username: string,
+  login: string,
+  avatar_url?: string
 }
